@@ -14,7 +14,7 @@ Si no puede observar el video ingrese al siguiente enlace: https://github.com/an
 </video>
 
 ### Movimientos empleando Deep Q-Learning
-Si no puede observar el video ingrese al siguiente enlace: ttps://github.com/antbenar/vizdoom/tree/main/Assets/pistolero_Trim.mp4 .
+Si no puede observar el video ingrese al siguiente enlace: https://github.com/antbenar/vizdoom/tree/main/Assets/pistolero_Trim.mp4 .
 
 <video width="100%" height="100%" autoplay>
   <source src="https://github.com/antbenar/vizdoom/tree/main/Assets/pistolero_Trim.mp4" type="video/mp4">
