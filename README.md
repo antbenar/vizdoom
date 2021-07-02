@@ -7,14 +7,14 @@ Los resultados obtenido se muestra en los siguientes videos:
 
 ### Movimientos aleatorios.
 
-<video width="100%" height="100%" controls>
+<video width="100%" height="100%" autoplay>
   <source src="https://github.com/antbenar/vizdoom/tree/main/Assets/aleatorio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### Movimientos empleando Deep Q-Learning
 
-<video width="100%" height="100%" controls>
+<video width="100%" height="100%" autoplay>
   <source src="https://github.com/antbenar/vizdoom/tree/main/Assets/pistolero_Trim.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
